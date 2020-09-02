@@ -27,3 +27,6 @@ Resumo Geral: Controle de chaves para corretores com o estoque das chaves da mou
 - Acesso por Token JWT
 - Mysql dados do banco e senhas em variaveis de ambiente escondida no servidor a qual hospedado
 
+# Implentação do Back end
+- Front-End em HTML e CSS e Javascript (possivel mudança para o React JS)
+- Aplicativo Mobile em FLutter
